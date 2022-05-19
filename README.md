@@ -8,3 +8,5 @@ For this competition, there are two target variables:
 - seasonal_vaccine - Whether respondent received seasonal flu vaccine.
 Both are binary variables: 0 = No; 1 = Yes. Some respondents didn't get either vaccine, others got only one, and some got both. This is formulated as a multilabel (and not multiclass) problem.
 
+LINK to competition's problem description: https://www.drivendata.org/competitions/66/flu-shot-learning/page/211/
+
